@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#define li long int
 #define lli long long int
 #define p 1000000007
 
